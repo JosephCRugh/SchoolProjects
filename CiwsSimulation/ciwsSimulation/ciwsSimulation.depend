@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1512769037 source:c:\users\hpose\coding\c++\odu_projects\ciwssimulation\ciwssimulation\gun.cpp
+	"gun.h"
+	<iostream>
+	<algorithm>
+	<iomanip>
+
+1512768203 c:\users\hpose\coding\c++\odu_projects\ciwssimulation\ciwssimulation\gun.h
+	<vector>
+	<random>
+
+1512768260 source:c:\users\hpose\coding\c++\odu_projects\ciwssimulation\ciwssimulation\main.cpp
+	"gun.h"
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<random>
+

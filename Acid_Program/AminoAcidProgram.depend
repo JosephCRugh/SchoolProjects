@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1507239771 source:c:\users\hpose\desktop\cleanup\ttt\school project\acid.cpp
+	"Acid.h"
+	<iostream>
+
+1507239729 c:\users\hpose\desktop\cleanup\ttt\school project\acid.h
+	<list>
+
+1507174330 source:c:\users\hpose\desktop\cleanup\ttt\school project\util.cpp
+	"Util.h"
+	<cmath>
+	<list>
+
+1507174182 c:\users\hpose\desktop\cleanup\ttt\school project\util.h
+	<list>
+
+1508544790 source:c:\users\hpose\desktop\cleanup\ttt\school project\main.cpp
+	<iostream>
+	"main.h"
+
+1507160038 c:\users\hpose\desktop\cleanup\ttt\school project\protein.h
+	"Acid.h"
+	<list>
+
+1508544670 c:\users\hpose\desktop\cleanup\ttt\school project\main.h
+	"Util.h"
+	"Protein.h"
+	<random>
+	<ctime>
+	<tuple>
+	<fstream>
+
