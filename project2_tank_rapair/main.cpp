@@ -1,3 +1,5 @@
+///CS 361 Vehicle repair project
+///Collaborated with Joseph Rugh, Raphael Sandor, and Derek Tiller
 #include <iostream>
 #include "vehicle.h"
 #include "inventory.h"
