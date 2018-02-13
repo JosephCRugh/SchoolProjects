@@ -1,32 +1,32 @@
 # depslib dependency file v1.0
-1507239771 source:c:\users\hpose\desktop\cleanup\ttt\school project\acid.cpp
+1507236171 source:c:\users\hpose\coding\c++\odu_projects\acid_program\acid.cpp
 	"Acid.h"
 	<iostream>
 
-1507239729 c:\users\hpose\desktop\cleanup\ttt\school project\acid.h
+1507236129 c:\users\hpose\coding\c++\odu_projects\acid_program\acid.h
 	<list>
 
-1507174330 source:c:\users\hpose\desktop\cleanup\ttt\school project\util.cpp
-	"Util.h"
-	<cmath>
-	<list>
-
-1507174182 c:\users\hpose\desktop\cleanup\ttt\school project\util.h
-	<list>
-
-1508544790 source:c:\users\hpose\desktop\cleanup\ttt\school project\main.cpp
+1508541190 source:c:\users\hpose\coding\c++\odu_projects\acid_program\main.cpp
 	<iostream>
 	"main.h"
 
-1507160038 c:\users\hpose\desktop\cleanup\ttt\school project\protein.h
-	"Acid.h"
-	<list>
-
-1508544670 c:\users\hpose\desktop\cleanup\ttt\school project\main.h
+1508541070 c:\users\hpose\coding\c++\odu_projects\acid_program\main.h
 	"Util.h"
 	"Protein.h"
 	<random>
 	<ctime>
 	<tuple>
 	<fstream>
+
+1507170582 c:\users\hpose\coding\c++\odu_projects\acid_program\util.h
+	<list>
+
+1507156438 c:\users\hpose\coding\c++\odu_projects\acid_program\protein.h
+	"Acid.h"
+	<list>
+
+1507170730 source:c:\users\hpose\coding\c++\odu_projects\acid_program\util.cpp
+	"Util.h"
+	<cmath>
+	<list>
 
